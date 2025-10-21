@@ -36,9 +36,12 @@ mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost:27017/ecommerce',
   serverSelectionTimeoutMS: 5000, 
 }).then(() => {
   console.log('MongoDB connected');
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+  });
 }).catch(err => {
   console.error('MongoDB connection error:', err.message);
-  console.error('VERCEL CRASH REASON:', err); 
 });
+
 
 module.exports = app;
