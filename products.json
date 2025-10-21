@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "688e01ed11442687a484bb7a",
+    "title": "iphone",
+    "description": "6.1-inch Super Retina XDR OLED display, A15 Bionic chip with 5-core GPU.\r\nDual 12MP camera system with Photonic Engine for better low-light photos.",
+    "price": "79999",
+    "image": "temp_1754137069642.jpg",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-02T12:17:49.669Z",
+    "__v": 0
+  },
+  {
+    "_id": "688e035911442687a484bb7e",
+    "title": "laptop",
+    "description": " 15.6-inch FHD display, Intel Core i5/i7 processor, and backlit keyboard",
+    "price": "69999",
+    "image": "temp_1754137433350.jpg",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-02T12:23:53.361Z",
+    "__v": 0
+  },
+  {
+    "_id": "688ef2234362ddae972319ba",
+    "title": "Mens Shirt",
+    "description": "This is a stylish maroon men's formal shirt with a slim-fit design and a glossy finish",
+    "price": "700",
+    "image": "temp_1754198563945.png",
+    "category": "mensWear",
+    "stock": 1,
+    "createdAt": "2025-08-03T05:22:43.959Z",
+    "__v": 0
+  },
+  {
+    "_id": "688ef31c4362ddae972319bd",
+    "title": "Women's Top",
+    "description": "This festive A-line dress features playful Thanksgiving-themed prints including turkeys, pumpkins, and autumn leaves",
+    "price": "10000",
+    "image": "temp_1754198812182.png",
+    "category": "womensWear",
+    "stock": 1,
+    "createdAt": "2025-08-03T05:26:52.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "688ef49a4362ddae972319c0",
+    "title": "CR7 Fan Tracksuit",
+    "description": "This sporty red and black hoodie set features bold golden graphics of Cristiano Ronaldo, with \"RONALDO THE BEST\" on the hoodie and \"CR7\" on the joggers.",
+    "price": "988",
+    "image": "temp_1754199194748.png",
+    "category": "kids",
+    "stock": 1,
+    "createdAt": "2025-08-03T05:33:14.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "688ef6174362ddae972319c3",
+    "title": "LG AC",
+    "description": "This is an LG Dual Inverter Split Air Conditioner with a smart inverter compressor for faster cooling and energy efficiency.",
+    "price": "59999",
+    "image": "temp_1754199575697.png",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-03T05:39:35.704Z",
+    "__v": 0
+  },
+  {
+    "_id": "688ef7094362ddae972319c6",
+    "title": "Samsung TV",
+    "description": "This Samsung OLED TV features a stunning 4K UHD display with deep blacks and vibrant colors powered by Quantum Dot technology.",
+    "price": "45000",
+    "image": "temp_1754199817650.png",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-03T05:43:37.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "688ef7f64362ddae972319c9",
+    "title": "Sports Shoes",
+    "description": "Breathable running shoes with cushioned sole and anti-slip grip. Includes 3-month warranty for manufacturing defects.",
+    "price": "1299",
+    "image": "temp_1754200054776.png",
+    "category": "mensWear",
+    "stock": 1,
+    "createdAt": "2025-08-03T05:47:34.783Z",
+    "__v": 0
+  },
+  {
+    "_id": "688f97b010ed784b01cfb670",
+    "title": "Double Door Fridge Haier",
+    "description": "Haier double-door fridge with fast cooling, energy efficiency, toughened glass shelves, and spacious freezer—ideal for modern homes.",
+    "price": "78999",
+    "image": "temp_1754240944550.png",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-03T17:09:04.576Z",
+    "__v": 0
+  },
+  {
+    "_id": "688f999a10ed784b01cfb67a",
+    "title": "Denim Jeans",
+    "description": "Stylish gradient denim jeans with a white-to-blue ombré fade, slim-fit design, and stretchable cotton for all-day comfort.",
+    "price": "1399",
+    "image": "temp_1754241434878.png",
+    "category": "mensWear",
+    "stock": 1,
+    "createdAt": "2025-08-03T17:17:14.886Z",
+    "__v": 0
+  },
+  {
+    "_id": "688f9d2510ed784b01cfb681",
+    "title": "Gold Choker Necklace",
+    "description": "Intricately handcrafted gold choker with temple-style floral motifs and antique finish—perfect for weddings and festive wear.",
+    "price": "159000",
+    "image": "temp_1754242341564.png",
+    "category": "womensWear",
+    "stock": 1,
+    "createdAt": "2025-08-03T17:32:21.568Z",
+    "__v": 0
+  },
+  {
+    "_id": "68903aa195f0711a386ce410",
+    "title": "Three-Piece Suit with Turban",
+    "description": "Elegant 3-piece light grey suit with maroon turban and matching striped tie; features a tailored fit, classic notch lapel, and coordinated pocket square—perfect for formal or wedding wear.",
+    "price": "6999",
+    "image": "temp_1754282656984.png",
+    "category": "mensWear",
+    "stock": 1,
+    "createdAt": "2025-08-04T04:44:17.015Z",
+    "__v": 0
+  },
+  {
+    "_id": "68930c921b89f5f83b3ae528",
+    "title": "Realme Buds 6 pro",
+    "description": "realme Buds Air 5 RMA2301 TWS Earbuds with Active Noise Cancellation (IPX5 Water Resistant, Fast Charging, Deep Sea Blue)",
+    "price": "4999",
+    "image": "temp_1754467474137.png",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-06T08:04:34.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "68931b1cbb85c15fabae2dbc",
+    "title": "Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI",
+    "description": "Titanium Gray, 12GB, 256GB Storage), Snapdragon 8 Gen 3, 200 MP Camera with ProVisual Engine and 5000mAh Battery",
+    "price": "79999",
+    "image": "temp_1754471196681.png",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-06T09:06:36.715Z",
+    "__v": 0
+  },
+  {
+    "_id": "689361d4cd96d4a587efa429",
+    "title": "Washing &9kg",
+    "description": "W1 front-loader washing machine: A I 9 kg I 1400 rpm I Automatic dispensing I Pre-ironing I Miele@home",
+    "price": "39999",
+    "image": "temp_1754489300470.png",
+    "category": "electronics",
+    "stock": 1,
+    "createdAt": "2025-08-06T14:08:20.493Z",
+    "__v": 0
+  }
+]
